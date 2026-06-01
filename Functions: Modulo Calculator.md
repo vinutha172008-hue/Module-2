@@ -11,9 +11,12 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
+<img width="341" height="156" alt="Screenshot 2026-06-01 102100" src="https://github.com/user-attachments/assets/a6fcb214-8724-40ea-9158-5a3a11475aae" />
 
-Add code Here
 
 ## Output
+<img width="183" height="127" alt="Screenshot 2026-06-01 102113" src="https://github.com/user-attachments/assets/67d940cc-c97e-492d-b7f2-39088ce92199" />
+
 
 ## Result
+The execution of the code was successfully done.
